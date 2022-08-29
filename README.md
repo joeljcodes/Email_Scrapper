@@ -77,7 +77,7 @@ If not found, php and python modoules will be installed on first run
 
 
 ## Video Tutorial
-<a href="https://www.youtube.com/watch?v=C8SQrjMw3sk">PyPhisher Video</a>
+<a href="https://www.youtube.com/watch?v=C8SQrjMw3sk">Email Scrapper Video</a>
 
  
 ## [!] Disclaimer
