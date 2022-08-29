@@ -166,12 +166,24 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 ####  If this tool helped you, consider staring repository. Your stars encourage me a lot!
 
 ## [~] Find Me on :
+<a href="https://github.com/joeljcodes">
+<img width="220" alt="Screenshot 2022-08-29 at 9 45 15 AM" src="https://user-images.githubusercontent.com/89782646/187122011-b0c0c25e-62fc-417a-9264-223df60bfe31.png">
+ </a>
+ <br>
+ <br>
+ <a href="https://www.youtube.com/channel/UCgwZ9z59dl96f5uX63L5XMA">
+<img width="220" alt="Screenshot 2022-08-29 at 9 45 45 AM" src="https://user-images.githubusercontent.com/89782646/187122018-f30d1a9b-1c81-4de9-9f28-0339749faf19.png">
+ </a>
+<br>
+<br>
+<a href="https://www.facebook.com/joelj.c.54/">
+<img width="220" alt="Screenshot 2022-08-29 at 9 46 05 AM" src="https://user-images.githubusercontent.com/89782646/187122021-0f58d2e6-c2a6-451a-82ad-619f7f5f5eb0.png">
+ </a>
+<br>
+<br>
+<a href="https://www.instagram.com/____.joel._____/">
+<img width="220" alt="Screenshot 2022-08-29 at 9 46 17 AM" src="https://user-images.githubusercontent.com/89782646/187122023-6da932e8-e7b5-4a6d-8ba1-a41b78c36e90.png">
+ </a>
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
